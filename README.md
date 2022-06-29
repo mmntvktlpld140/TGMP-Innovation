@@ -1,5 +1,5 @@
 # TGMP-Innovation
-Reverse engineering of The Great Moomin Party game - renovation projects Adobe Director. IN TIME I WILL UPLOAD ALL THE FILES! HERE IS NOT EVERYTHING.
+Reverse engineering of The Great Moomin Party game - renovation projects Adobe Director.
 
 # Short information:
 The game has been decompiled through the ProjectorRays and dirOpener utility in order to get the original Director projects and make modifications to this game for entertainment purposes. either I nor anyone else is trying to get any benefit from this.
@@ -10,6 +10,7 @@ The game has been decompiled through the ProjectorRays and dirOpener utility in 
 
 # Download
 * Google Drive:
+* Yandex Disk:
 
 # Links:
 * The Great Moomin Party [ENG] - https://www.old-games.ru/game/6923.html ;
