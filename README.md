@@ -8,6 +8,9 @@ The game has been decompiled through the ProjectorRays and dirOpener utility in 
 INFO_ENG.DOC - english
 INFO_RUS.DOC - russian
 
+# Download
+* Google Drive:
+
 # Links:
 The Great Moomin Party [ENG] - https://www.old-games.ru/game/6923.html ;
 Fest I Mumindalen [SW] - https://archive.org/details/fest-i-mumindalen ;
