@@ -10,7 +10,7 @@ The game has been decompiled through the ProjectorRays and dirOpener utility in 
 
 # Download
 * Google Drive: 
-* Yandex Disk: 
+* Yandex Disk: https://disk.yandex.ru/d/10FLZMU6s_x-GA
 * MEGA: https://mega.nz/file/UMITXLSS#_x6gMokhd1FFCQ38WnRQWHs3solgdkqt4qzMTw4V6L4
 
 # Links:
