@@ -9,13 +9,14 @@ The game has been decompiled through the ProjectorRays and dirOpener utility in 
 * INFO_RUS.DOC - russian
 
 # Download
-* Google Drive:
-* Yandex Disk:
+* Google Drive: 
+* Yandex Disk: 
+* MEGA: 
 
 # Links:
-* The Great Moomin Party [ENG] - https://www.old-games.ru/game/6923.html ;
-* Fest I Mumindalen [SW] - https://archive.org/details/fest-i-mumindalen ;
-* Suuri Muumijuhla [FIN] - https://archive.org/details/Suurimuumijuhla ;
-* ProjectorRays - https://github.com/ProjectorRays/ProjectorRays ;
-* dirOpener - https://archive.org/details/dirOpener300-850-1-PC ;
-* My YouTube channel about Moomin's - https://www.youtube.com/channel/UC0hMf0QuVSnEL_4hc09FowQ 
+* The Great Moomin Party [ENG] - https://www.old-games.ru/game/6923.html
+* Fest I Mumindalen [SW] - https://archive.org/details/fest-i-mumindalen
+* Suuri Muumijuhla [FIN] - https://archive.org/details/Suurimuumijuhla
+* ProjectorRays - https://github.com/ProjectorRays/ProjectorRays
+* dirOpener - https://archive.org/details/dirOpener300-850-1-PC
+* My YouTube channel about Moomin's - https://www.youtube.com/channel/UC0hMf0QuVSnEL_4hc09FowQ
